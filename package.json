@@ -1,0 +1,16 @@
+{
+  "name": "intro-nightwatch",
+  "version": "1.0.0",
+  "description": "E2E Testing using Nightwatch.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^94.0.0",
+    "nightwatch": "^1.7.11"
+  }
+}
